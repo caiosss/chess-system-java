@@ -21,4 +21,6 @@ public abstract class ChessPiece extends Piece {
 		return p != null && p.getColor() != color;
 	}
 	
+	
+	
 }
