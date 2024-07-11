@@ -1,7 +1,7 @@
 ## Chess System ♟️
 
 <p align="center">
-<img src="images/chess-system.png" width="800px">
+<img src="images/chess-system.png" width="600px">
 <img src="images/chess-system-gif.gif" width="600px">
 </p>
 
@@ -12,7 +12,7 @@ Esse é um projeto feito totalmente em Java e que consiste em simular uma partid
 ## 💻 Como rodar esse projeto?
 Para rodar o projeto você vai precisar estar com o Java instalado - de preferência a versão JDK. Você pode instalar através do site da [Oracle JDK](https://www.oracle.com/java/technologies/downloads/)
 
-Uma vez que o Java já está instalado, você poderá baixar o projeto pelo GitHub e abrir o terminal do seu sistema operacional e rodar o seguinte comando:
+Uma vez que o Java já está instalado, você poderá baixar o projeto pelo GitHub e abrir pasta do projeto juntamente do terminal e digitar o seguinte comando:
 
 ```
 java Program
@@ -32,7 +32,7 @@ Na opção **Source** é onde será inserido os comandos para movimentar as peç
 ```
 Source: a2
 ```
-Após inserir o programa mostrará uma algo assim:
+Após inserir o programa mostrará algo assim:
 <p align="center">
 <img src="images/chess-target.png" width="400px">
 </p>
